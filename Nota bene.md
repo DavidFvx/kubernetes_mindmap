@@ -1,0 +1,2 @@
+-  Automatic restart container
+- Deployement cofiguration = cluster indication (creation + update)
