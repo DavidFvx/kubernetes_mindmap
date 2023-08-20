@@ -25,8 +25,8 @@
 		{"type":"text","text":"Pod : container group","id":"da4d1e7dfc6b4049","x":1827,"y":-914,"width":267,"height":56,"color":"4"},
 		{"type":"text","text":"Service : Pods group","id":"07762e7f75c815b9","x":1827,"y":-825,"width":267,"height":65,"color":"4"},
 		{"type":"file","file":"kubernetes_mindmap/label&selector.png","id":"0e87ac44b4d7d8e5","x":2221,"y":-853,"width":779,"height":577,"color":"6"},
-		{"type":"text","text":"Selector : select label","id":"1240363b353509c7","x":2221,"y":-1092,"width":267,"height":65,"color":"4"},
-		{"type":"text","text":"Label : labelized resource","id":"d032cbb1c2377cce","x":2221,"y":-1002,"width":267,"height":65,"color":"4"}
+		{"type":"text","text":"Label : labelized resource","id":"d032cbb1c2377cce","x":2221,"y":-1067,"width":267,"height":75,"color":"4"},
+		{"type":"text","text":"Selector : select label","id":"1240363b353509c7","x":2221,"y":-979,"width":267,"height":65,"color":"4"}
 	],
 	"edges":[
 		{"id":"4eb4966387486376","fromNode":"c0d7d32b9ed01e62","fromSide":"top","toNode":"e6af2bbfc30b15c5","toSide":"bottom","color":"4"},
@@ -46,7 +46,7 @@
 		{"id":"0aee6bc161516f0d","fromNode":"e4cbf91cbda3e505","fromSide":"bottom","toNode":"333571e662b66df9","toSide":"top","color":"3"},
 		{"id":"def4a1581fdd7ab4","fromNode":"9dd90853d593b577","fromSide":"bottom","toNode":"e1ba74a922e24323","toSide":"top","color":"3"},
 		{"id":"750d57e9c616dd6e","fromNode":"ad72522cfebb2729","fromSide":"right","toNode":"0e87ac44b4d7d8e5","toSide":"left","color":"6"},
-		{"id":"8ee23c3f614bb018","fromNode":"da4d1e7dfc6b4049","fromSide":"right","toNode":"1240363b353509c7","toSide":"left","color":"4"},
+		{"id":"8ee23c3f614bb018","fromNode":"ad72522cfebb2729","fromSide":"right","toNode":"1240363b353509c7","toSide":"left","color":"4"},
 		{"id":"857416db857e6d8c","fromNode":"ad72522cfebb2729","fromSide":"right","toNode":"d032cbb1c2377cce","toSide":"left","color":"4"}
 	]
 }
